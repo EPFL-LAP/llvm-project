@@ -13,6 +13,8 @@
 #ifndef LLVM_LIB_TARGET_X86_MCTARGETDESC_X86MCTARGETDESC_H
 #define LLVM_LIB_TARGET_X86_MCTARGETDESC_X86MCTARGETDESC_H
 
+#include "llvm/ADT/SmallVector.h"
+#include <cstdint>
 #include <memory>
 #include <string>
 
